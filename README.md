@@ -2,8 +2,7 @@
 - 👀 I’m interested in computer technologies .
 - 🌱 I’m currently learning DSA and web development.
 - 💞️ I’m looking to collaborate on latest tech projects.
-- 📫 2k22.csai.32123@gmail.com is my email wherer you can reach me.
-- 
+- 📫 2k22.csai.32123@gmail.com is my email where you can reach me.
 
 <!---
 7yarthverse/7yarthverse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
